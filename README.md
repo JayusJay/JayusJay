@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayusJay
 - 👀 I’m interested in Blockchain development and smart contracts
-- 🌱 I’m currently learning solidity, React and JS 
+- 🌱 I’m currently learning solidity, React and vanilla JS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... twitter @jonathanjayus
 
