@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Jonathan
 - 👀 I’m interested in Blockchain development and smart contracts
-- 🌱 I’m currently learning Solidity, Javascript and Rust
+- 🌱 I’m currently learning Rust.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ... twitter @jonathanjayus
 
